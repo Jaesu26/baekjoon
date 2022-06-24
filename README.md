@@ -9,4 +9,4 @@
 
 `3.` tuple unpacking을 적극적으로 활용하자
 
-`4.` Python vs PyPy: Python은 느리고 메모리 사용 적음, PyPy는 빠르고 메모리 사용 많음 
+`4.` `Python` vs `PyPy` : `Python`은 느리고 메모리 사용 적음, `PyPy`는 빠르고 메모리 사용 많음 
