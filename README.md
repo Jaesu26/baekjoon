@@ -8,3 +8,5 @@
 `2.` 메모리도 다를 수 있음
 
 `3.` tuple unpacking을 적극적으로 활용하자
+
+`4.` Python vs PyPy: Python은 느리고 메모리 사용 적음, PyPy는 빠르고 메모리 사용 많음 
