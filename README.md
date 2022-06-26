@@ -10,3 +10,5 @@
 `3.` tuple unpacking을 적극적으로 활용하자
 
 `4.` `Python` vs `PyPy` : `Python`은 느리고 메모리 사용 적음, `PyPy`는 빠르고 메모리 사용 많음 
+
+`5.` `BFS` 구현할 때 `queue`에서 `popleft` 하고 방문 여부를 확인하는 것이 아닌 `append` 하기 전에 확인해야 한다, 그렇지 않으면 중복 방문을 하게 된다
