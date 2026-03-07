@@ -2,6 +2,8 @@
 
 [백준](https://www.acmicpc.net/) 알고리즘 문제풀이 (파이썬)
 
+프로필: https://www.acmicpc.net/user/helloworld12345
+
 ## 백준 하면서 알게된 점
 
 `1.` 같은 언어, 같은 코드여도 시간이 다를 수 있음
