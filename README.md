@@ -2,7 +2,8 @@
 
 [백준](https://www.acmicpc.net/) 알고리즘 문제풀이 (파이썬)
 
-프로필: https://www.acmicpc.net/user/helloworld12345
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=helloworld12345)](https://solved.ac/helloworld12345)
 
 ## 백준 하면서 알게된 점
 
