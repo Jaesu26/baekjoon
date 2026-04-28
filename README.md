@@ -5,6 +5,8 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=helloworld12345)](https://solved.ac/helloworld12345)
 
+![solved.ac 카드](https://solvedac-readme-stats.vercel.app/api?handle=helloworld12345&v=2&streak=true)
+
 ## 백준 하면서 알게된 점
 
 `1.` 같은 언어, 같은 코드여도 시간이 다를 수 있음
