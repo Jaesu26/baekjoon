@@ -5,7 +5,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=helloworld12345)](https://solved.ac/helloworld12345)
 
-![solved.ac 카드](https://solvedac-readme-stats.vercel.app/api?handle=helloworld12345&v=2&streak=true)
+![image](./pictures/solvedac-helloworld12345-v2.svg)
 
 ## 백준 하면서 알게된 점
 
